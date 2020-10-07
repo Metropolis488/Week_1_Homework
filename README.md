@@ -1,6 +1,6 @@
 # Week_1_Homework
 
-https://img.shields.io/badge/license-mit-blue.svg
+![initial-sketch](https://img.shields.io/badge/license-mit-blue.svg)
 
 ## TOC
 ### Section 1
